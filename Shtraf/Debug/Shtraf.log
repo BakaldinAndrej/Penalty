@@ -1,0 +1,6 @@
+﻿  Shtraf.cpp
+c:\users\андрей\source\repos\shtraf\shtraf\shtraf.cpp(101): warning C4477: "scanf": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+  c:\users\андрей\source\repos\shtraf\shtraf\shtraf.cpp(101): note: рекомендуется использовать "%lf" в строке форматирования
+c:\users\андрей\source\repos\shtraf\shtraf\shtraf.cpp(104): warning C4477: "scanf": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+  c:\users\андрей\source\repos\shtraf\shtraf\shtraf.cpp(104): note: рекомендуется использовать "%lf" в строке форматирования
+  Shtraf.vcxproj -> C:\Users\Андрей\source\repos\Shtraf\Debug\Shtraf.exe
